@@ -1,0 +1,47 @@
+/* line 3, /Users/rithvik/Desktop/Work/ID-Test/scss/style.scss */
+.emp-img {
+  width: 200px;
+  border: 1px solid black;
+}
+
+/* line 7, /Users/rithvik/Desktop/Work/ID-Test/scss/style.scss */
+.card {
+  padding: 20px;
+  margin: 20px;
+}
+
+/* line 12, /Users/rithvik/Desktop/Work/ID-Test/scss/style.scss */
+.id-body {
+  padding: 0;
+  padding: 20px 0;
+}
+
+/* line 16, /Users/rithvik/Desktop/Work/ID-Test/scss/style.scss */
+.id-body .emp-details {
+  padding-left: 10px;
+}
+
+/* line 19, /Users/rithvik/Desktop/Work/ID-Test/scss/style.scss */
+.id-body .emp-img {
+  width: 100%;
+}
+
+/* line 26, /Users/rithvik/Desktop/Work/ID-Test/scss/style.scss */
+.barcode img {
+  height: 150px;
+}
+
+/* line 31, /Users/rithvik/Desktop/Work/ID-Test/scss/style.scss */
+.disclaimer {
+  padding: 20px 0;
+}
+
+/* line 33, /Users/rithvik/Desktop/Work/ID-Test/scss/style.scss */
+.disclaimer p {
+  padding: 0 20px;
+  text-align: justify;
+  margin-bottom: 1px;
+  text-transform: capitalize;
+}
+
+/*# sourceMappingURL=../css/style.map */

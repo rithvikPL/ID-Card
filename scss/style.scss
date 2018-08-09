@@ -1,0 +1,39 @@
+$standard-padding : 20px 0;
+$standard-margin : 20px;
+.emp-img{
+    width: 200px;
+    border: 1px solid black;
+}
+.card {
+    padding: 20px;
+    margin: $standard-margin;
+}
+
+.id-body{
+    padding: 0;
+    padding: $standard-padding;
+    
+    .emp-details{
+        padding-left: 10px;
+    }
+    .emp-img{
+        width: 100%;
+    }
+    
+}
+.barcode{
+        
+    img{
+        height: 150px;
+    }
+}
+
+.disclaimer{
+    padding: $standard-padding;
+    p{
+        padding: 0 20px;
+        text-align: justify;
+        margin-bottom: 1px;
+        text-transform: capitalize;
+    }
+}

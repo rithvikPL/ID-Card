@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../scss/style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		"$standard-padding : 20px 0;\n$standard-margin : 20px;\n.emp-img{\n    width: 200px;\n    border: 1px solid black;\n}\n.card {\n    padding: 20px;\n    margin: $standard-margin;\n}\n\n.id-body{\n    padding: 0;\n    padding: $standard-padding;\n    \n    .emp-details{\n        padding-left: 10px;\n    }\n    .emp-img{\n        width: 100%;\n    }\n    \n}\n.barcode{\n        \n    img{\n        height: 150px;\n    }\n}\n\n.disclaimer{\n    padding: $standard-padding;\n    p{\n        padding: 0 20px;\n        text-align: justify;\n        margin-bottom: 1px;\n        text-transform: capitalize;\n    }\n}"
+	],
+	"mappings": ";AAEA,AAAA,QAAQ,CAAA;EACJ,KAAK,EAAE,KAAM;EACb,MAAM,EAAE,eAAgB;CAC3B;;;AACD,AAAA,KAAK,CAAC;EACF,OAAO,EAAE,IAAK;EACd,MAAM,EAPS,IAAI;CAQtB;;;AAED,AAAA,QAAQ,CAAA;EACJ,OAAO,EAAE,CAAE;EACX,OAAO,EAbS,IAAI,CAAC,CAAC;CAsBzB;;;AAXD,AAII,QAJI,CAIJ,YAAY,CAAA;EACR,YAAY,EAAE,IAAK;CACtB;;;AANL,AAOI,QAPI,CAOJ,QAAQ,CAAA;EACJ,KAAK,EAAE,IAAK;CACf;;;AAGL,AAEI,QAFI,CAEJ,GAAG,CAAA;EACC,MAAM,EAAE,KAAM;CACjB;;;AAGL,AAAA,WAAW,CAAA;EACP,OAAO,EA/BS,IAAI,CAAC,CAAC;CAsCzB;;;AARD,AAEI,WAFO,CAEP,CAAC,CAAA;EACG,OAAO,EAAE,MAAO;EAChB,UAAU,EAAE,OAAQ;EACpB,aAAa,EAAE,GAAI;EACnB,cAAc,EAAE,UAAW;CAC9B",
+	"names": []
+}
